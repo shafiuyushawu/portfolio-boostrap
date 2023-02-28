@@ -1,0 +1,29 @@
+body {
+  overflow-x: hidden;
+}
+
+.card {
+  background-image: url('./icons/cardBackground.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#aboutme {
+  background-image: url('./icons/deskAmBackGround.svg');
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.aboutme__border {
+  border: 1px solid whitesmoke;
+  height: 0;
+  width: 100vw;
+  margin-top: 80px;
+}
+
+#footer {
+  border: 1px solid whitesmoke;
+  height: 0;
+  width: 100vw;
+  margin-top: 80px;
+}
